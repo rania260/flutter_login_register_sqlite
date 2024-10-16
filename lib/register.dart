@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:tp4/login.dart';
 import 'SQLlite/sqlite.dart';
-import 'models/user.dart'; // Ajoutez l'import de votre modèle Users
+import 'models/user.dart'; 
 
 class register extends StatefulWidget {
   const register({Key? key}) : super(key: key);
